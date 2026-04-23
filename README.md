@@ -1,14 +1,14 @@
 # YAT Client Releases
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/tunnel6/yat-client)](https://github.com/tunnel6/yat-client/releases/latest)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/tunnel6/yat)](https://github.com/tunnel6/yat-client/releases/latest)
 
 [English](README_EN.md) | [中文](README.md)
 
 YAT (Yet Another Tunnel) 桌面客户端发布仓库 - 提供多平台安装包下载
 
 **官方网站**: [https://www.tunnel6.com](https://www.tunnel6.com)  
-**文档**: [https://yat.github.io](https://yat.github.io)  
+**文档**: [https://tunnel6.github.io](https://tunnel6.github.io)  
 **主仓库**: [https://github.com/tunnel6/yat](https://github.com/tunnel6/yat)
 
 ## 简介
@@ -35,11 +35,11 @@ YAT 是一个简单安全的内网穿透解决方案，提供零信任安全架�
 
 ### 最新版本
 
-访问 [GitHub Releases](https://github.com/tunnel6/yat-client/releases/latest) 下载最新版本。
+访问 [GitHub Releases](https://github.com/tunnel6/yat/releases/latest) 下载最新版本。
 
 ### 所有版本
 
-查看 [所有发布版本](https://github.com/tunnel6/yat-client/releases) 获取历史版本和更新日志。
+查看 [所有发布版本](https://github.com/tunnel6/yat/releases) 获取历史版本和更新日志。
 
 ## 安装指南
 
@@ -61,7 +61,7 @@ YAT 是一个简单安全的内网穿透解决方案，提供零信任安全架�
 
 ```bash
 # 下载 .deb 安装包
-wget https://github.com/tunnel6/yat-client/releases/latest/download/yat_x.x.x_amd64.deb
+wget https://github.com/tunnel6/yat/releases/latest/download/yat_x.x.x_amd64.deb
 
 # 安装
 sudo dpkg -i yat_x.x.x_amd64.deb
@@ -74,7 +74,7 @@ sudo apt-get install -f
 
 ```bash
 # 下载 AppImage
-wget https://github.com/tunnel6/yat-client/releases/latest/download/yat_x.x.x_x86_64.AppImage
+wget https://github.com/tunnel6/yat/releases/latest/download/yat_x.x.x_x86_64.AppImage
 
 # 添加执行权限
 chmod +x yat_x.x.x_x86_64.AppImage
