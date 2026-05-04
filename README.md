@@ -112,7 +112,7 @@ YAT 客户端支持自动更新：
 
 ## 反馈与支持
 
-- 📖 **文档**: [https://yat.github.io/guide/](https://yat.github.io/guide/)
+- 📖 **文档**: [https://tunnel6.com/guide/](https://tunnel6.com/guide/)
 - 🌐 **官网**: [https://www.tunnel6.com](https://www.tunnel6.com)
 - 🐛 **问题反馈**: [GitHub Issues](https://github.com/tunnel6/yat/issues)
 - 💬 **讨论**: [GitHub Discussions](https://github.com/tunnel6/yat/discussions)
