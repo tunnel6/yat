@@ -158,10 +158,10 @@ yat-client import <INVITE_FILE>
 
 ## 文档
 
-- YAT 使用指南：<https://tunnel6.com/guide/>
-- Edge 部署与配置：<https://tunnel6.com/guide//guide/edge/deploy.html>
-- WireGuard 组网：<https://tunnel6.com/guide/guide/wireguard-networking.html>
-- 传输模式：<https://tunnel6.com/guide/guide/transport-modes.html>
+- YAT 使用指南：<[https://tunnel6.com/guide/](https://tunnel6.com/zh/guide/what-is-yat.html)>
+- Edge 部署与配置：<[https://tunnel6.com/guide//guide/edge/deploy.html](https://tunnel6.com/zh/guide/edge/deploy.html)>
+- WireGuard 组网：<[https://tunnel6.com/guide/guide/wireguard-networking.html](https://tunnel6.com/zh/guide/wireguard-networking.html)>
+- 传输模式：<https://tunnel6.com/zh/guide/transport-modes.html>
 - GitHub Issues：<https://github.com/tunnel6/yat/issues>
 
 ## 贡献
