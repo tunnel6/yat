@@ -4,6 +4,8 @@
 
 [English](README.md) | [中文](README_ZH.md)
 
+**官方网站**：<https://tunnel6.com>
+
 OpenYAT 是 YAT（Yet Another Tunnel）的开源客户端与私有化组网方案。它以自建 **Edge** 为运行时协调节点，通过 mTLS 完成设备认证，提供内网穿透、TCP/UDP/HTTP 转发和 WireGuard 私有网络能力。
 
 OpenYAT 运行时不需要平台账号。设备在本地生成身份与密钥，使用一次性配对令牌或网络邀请码向 Edge 申请设备证书；后续通信由 Edge 自签 CA 验证并使用 mTLS 加密。
