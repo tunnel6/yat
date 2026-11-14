@@ -4,6 +4,8 @@
 
 [English](README.md) | [中文](README-ZH.md)
 
+**Official website**: <https://tunnel6.com>
+
 OpenYAT is the open-source client and private networking solution for YAT (Yet Another Tunnel). It uses a self-hosted **Edge** as the runtime coordination node, authenticates devices with mTLS, and provides intranet tunneling, TCP/UDP/HTTP forwarding, and private WireGuard networking.
 
 The OpenYAT runtime does not require a platform account. Devices generate their identity and key material locally, then use a one-time pairing token or network invitation to request a device certificate from Edge. Subsequent communication is verified by the Edge self-signed CA and encrypted with mTLS.
