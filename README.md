@@ -158,9 +158,9 @@ See the README and CLI help in the `yat-fe-linux` repository for exact command o
 
 ## Documentation
 
-- YAT guide: <https://tunnel6.com/guide/>
-- Edge deployment and configuration: <https://tunnel6.com/guide//guide/edge/deploy.html>
-- WireGuard networking: <https://tunnel6.com/guide/guide/wireguard-networking.html>
+- YAT guide: <https://tunnel6.com/guide/what-is-yat.html>
+- Edge deployment and configuration: <[https://tunnel6.com/guide//guide/edge/deploy.html](https://tunnel6.com/guide/edge/deploy.html)>
+- WireGuard networking: <[https://tunnel6.com/guide/guide/wireguard-networking.html](https://tunnel6.com/guide/wireguard-networking.html)>
 - Transport modes: <https://tunnel6.com/guide/guide/transport-modes.html>
 - GitHub Issues: <https://github.com/tunnel6/yat/issues>
 
