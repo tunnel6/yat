@@ -2,7 +2,7 @@
 
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
-[English](README.md) | [中文](README-ZH.md)
+[English](README.md) | [中文](README_ZH.md)
 
 **Official website**: <https://tunnel6.com>
 
