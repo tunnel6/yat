@@ -66,15 +66,6 @@ OpenYAT / yat-fe-linux -> network -> { transport | wireguard }
 | Desktop client | OpenYAT | Electron + Vue desktop client; provides management UI for networks, tunnels, Edge, pairing, and runtime status. |
 | Linux CLI | [yat-fe-linux](https://github.com/tunnel6/yat-fe-linux.git) | Linux client CLI edition; suitable for servers, headless environments, systemd services, and automated operations. |
 
-## Related Projects
-
-| Project | Address | Description |
-| --- | --- | --- |
-| Edge | <https://github.com/tunnel6/edge.git> | Edge service; the runtime coordinator and public access node for OpenYAT. |
-| network | <https://github.com/tunnel6/network.git> | Core client business processing shared by the desktop client and Linux CLI. |
-| transport | <https://github.com/tunnel6/transport.git> | Protocol transport implementation between Edge and clients. |
-| wireguard | <https://github.com/tunnel6/wireguard.git> | WireGuard protocol wrapper and WG business control layer. |
-| yat-fe-linux | <https://github.com/tunnel6/yat-fe-linux.git> | Linux client CLI edition. |
 
 ## Runtime Flow
 
